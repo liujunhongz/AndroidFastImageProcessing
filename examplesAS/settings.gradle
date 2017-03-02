@@ -1,0 +1,5 @@
+include ':fastImageProcessing'
+include ':allFiltersExample'
+include ':twoInputFilterExample'
+include ':videoToImageExample'
+include ':genericFilterExample'
